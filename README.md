@@ -1,6 +1,6 @@
 # Anton Castro
 
-Forward deployed Designer/Engineer, who finds joy in problem solving within complex systems... I design in Figma and build in React, Next.js, and SwiftUI. Most recently: [Agent Pit Stop](https://agent-pitstop.vercel.app), an open source design system for agents to build interfaces, and [Custoria](https://github.com/acaspx/CLabs), an AI capture-to-vault app for collectors that I co-founded and took from concept to first business customers.
+Forward deployed Designer Engineer, who finds joy in problem solving within complex systems... I design in Figma and build in React, Next.js, Three.js and SwiftUI.
 
 **Now**
 
