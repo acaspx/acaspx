@@ -1,6 +1,6 @@
 # Anton Castro
 
-Designer & Engineer, who finds joy in problem solving within complex systems... Imagining solutions from real world applications for our digital experiences
+Design Engineer, who finds joy in problem solving within complex systems... Imagining solutions from real world applications for our digital experiences
 **Currently**
 
 - Building [Agent Pit Stop](https://github.com/acaspx/agent-pitstop): UX principles + React components for the moments where agents and humans loop 
