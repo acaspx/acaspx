@@ -3,7 +3,7 @@
 Design Engineer, who finds joy in problem solving within complex systems... Imagining solutions from real world applications for our digital experiences
 
 **Currently**
-- Building [Agent Pit Stop](https://github.com/acaspx/agent-pitstop): UX principles + React components for the moments where agents and humans loop 
+- Building [Corral](https://github.com/acaspx/Corral-howdy): An easy to use GUI, for managing and deploying all of your personal agents. 
 - Founding Design Engineer, at Custoria Labs building agentic AI for collectors, hobbyist, and businesses owners
 - Rebuilding my portfolio in public: Next.js 15 + Tailwind 4 + Motion → [portfolio-chops](https://github.com/acaspx/portfolio-chops)
 
