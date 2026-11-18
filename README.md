@@ -1,6 +1,6 @@
 # Anton Castro
 
-Design Engineer, who finds joy in problem solving within complex systems... Imagining solutions from real world applications for our digital experiences
+Design Engineer, problem solving within complex systems... Imagining solutions from real world applications for our digital experiences
 
 **Currently**
 - Building [Corral-howdy](https://github.com/acaspx/Corral-howdy) An easy to use GUI, for managing and deploying all of your personal agents. 
