@@ -4,7 +4,7 @@ Design Engineer, problem solving within complex systems... Imagining solutions f
 
 **Currently**
 - Building [Corral-howdy](https://github.com/acaspx/Corral-howdy) An easy to use GUI, for managing and deploying all of your personal agents. 
-- Founding Design Engineer, at Custoria Labs building agentic AI for collectors, hobbyist, and businesses owners
+- Founding Design Engineer, at Custoria Labs building agentic AI for collectors, hobbyist, and businesses owners:https://apps.apple.com/us/app/custoria-vault/id6777615531
 - Redesigning my portfolio in public: Next.js 15 + Tailwind 4 + Motion → [portfolio-chops](https://github.com/acaspx/portfolio-chops)
 
 **Stack**
